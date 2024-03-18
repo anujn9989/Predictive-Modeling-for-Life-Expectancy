@@ -13,6 +13,10 @@ Using the predictive model, we can estimate the life expectancy of individuals u
 ## Tools and Packages
 The predictive models were implemented using Python, utilizing libraries such as pandas, scikit-learn, and matplotlib. The provided code includes data preprocessing, model fitting, and evaluation steps for two distinct predictive models.
 
+![an image](images/linearity.png)
+
+![an image](images/residual_plot.png)
+
 ## Evaluation
 Evaluation of the predictive models was performed using Root Mean Squared Error (RMSE) and R-squared scores. The first predictive model achieved a relatively low RMSE and a high R-squared score, indicating accurate predictions. However, the second model exhibited higher error metrics, suggesting lower accuracy in predicting life expectancy.
 
